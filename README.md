@@ -1,0 +1,2 @@
+# AutotradeAI
+Market hunter
